@@ -21,7 +21,7 @@ export LINUX_ADMIN_USER="azureuser"
 
 az deployment group create \
 --resource-group $RG \
---template-file ./bicep/aks.bicep \
+--template-file ./baseAKS.bicep \
 --parameters \
 clusterName=$CLUSTER_NAME \
 location=$LOC \
