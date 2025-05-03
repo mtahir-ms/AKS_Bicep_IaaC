@@ -8,3 +8,5 @@ You can expand on further settings as per your environment or requirements
 CNI Overlay networking 
 
 I will be working on expanding this script over next few weeks and will make additional changes. 
+
+If you are new to AKS or need more information on planning AKS Deployment, Please go through this base architecture and highly recommending to download visio file for the architecture and create a similar for your deployment environment or by workload. https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/baseline-aks
